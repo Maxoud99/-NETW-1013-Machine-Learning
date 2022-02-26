@@ -1,1 +1,3 @@
+This is the first assigment during spring semster 2022
+It contains a Kmean implementation from scratch with different aspects
 

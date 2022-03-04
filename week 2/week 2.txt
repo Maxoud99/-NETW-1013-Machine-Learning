@@ -1,1 +1,6 @@
-
+This is week 2 assigment
+I did developed the first implementation of Kmean algorithm to be
+more fast and accurate and I have fixed some errors.
+After that I have added the two new requirments which are finding the 
+best random start points and analyzing the best K (number of clusters) value 
+that wouild result in best performance using elbow method
